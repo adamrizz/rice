@@ -1,0 +1,7 @@
+{
+  "name": "padi-cnn-frontend",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'Tidak ada build step, hanya file statis.'"
+  }
+}
