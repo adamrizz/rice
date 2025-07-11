@@ -1,7 +1,6 @@
 fastapi
 uvicorn
-tensorflow-cpu
 Pillow
 numpy
 python-multipart
-requests
+tensorflow-lite
