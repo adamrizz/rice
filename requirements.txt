@@ -3,4 +3,4 @@ uvicorn
 Pillow
 numpy
 python-multipart
-tensorflow-lite
+tflite-runtime==2.13.0
